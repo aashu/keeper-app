@@ -1,6 +1,6 @@
-#Keeper App
+# Keeper App
 
-#### this is note taking app 
+#### A note taking app similar to Google Keep
 
 ## Available Scripts
 
